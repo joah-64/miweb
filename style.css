@@ -1,5 +1,7 @@
 body{
-    color: blue;
+    color: rgb(255, 255, 255);
+    width: 400px;
+    background-color: black;
 }
 h2{
     color: aquamarine;
